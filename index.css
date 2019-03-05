@@ -274,3 +274,18 @@ p{
      position: relative;
      left: 550px;
  }
+ 
+
+.qwer:hover,.asdf:hover,.zxcv:hover,.qazx:hover{
+    background: rgb(6, 170, 135)
+}
+
+.m:hover,.j:hover,.k:hover,.u:hover{
+    background: rgb(18, 179, 144);
+}
+
+
+.prodimg{
+    height: auto;
+    width: 1980px;
+}
